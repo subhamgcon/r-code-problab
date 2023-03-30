@@ -2,6 +2,7 @@ sample1=c(19,17,15,21,16,18,16,14)
 sample1
 sample2=c(15,14,15,19,15,18,16,20)
 sample2
+#T-Test
 t=t.test(sample1,sample2)
 t
 
